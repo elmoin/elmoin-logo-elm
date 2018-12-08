@@ -1,6 +1,6 @@
 # Elmoin logo rendered by [elm-svg](https://github.com/evancz/elm-svg)
 
-<img src="https://cdn.rawgit.com/sectore/elmoin-logo-media/master/elmoin-logo.svg" alt="Elmoin logo" width="507" height="481">
+<img src="https://cdn.jsdelivr.net/gh/sectore/elmoin-logo-media/elmoin-logo.svg" alt="Elmoin logo" width="507" height="481">
 
 # Install instruction
 
